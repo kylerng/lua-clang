@@ -26,6 +26,7 @@ set(LUASRC
     lgc.h    
     linit.c
     liolib.c
+    ljumptab.h
     llex.c
     llex.h   
     llimits.h
@@ -37,6 +38,7 @@ set(LUASRC
     lobject.h 
     lopcodes.c
     lopcodes.h
+    lopnames.h
     loslib.c
     lparser.c
     lparser.h 
